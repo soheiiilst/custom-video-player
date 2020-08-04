@@ -1,7 +1,7 @@
 # CUSTOM VIDEO PLAYER
 
 ### Play, have fun :) 
-#### -----------------------------
+#### [https://soheiiilst.github.io/custom-video-player/](https://soheiiilst.github.io/custom-video-player/)
 <h2 align="center">
   <a href="http://uupload.ir/files/p951_custom-video-player.png" target="_blank"><img src="http://uupload.ir/files/p951_custom-video-player.png" border="0" alt="آپلود عکس" /></a>
   <br>
